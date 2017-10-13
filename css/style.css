@@ -1,0 +1,25 @@
+h2 {
+  color:red;
+  font-family: "garuda";
+
+
+}
+img {
+   position: absolute;
+   width: 1200px;
+}
+
+h2 {
+   position: absolute;
+   top: 1200px;
+   left: 0;
+   width: 300%;
+}
+
+body{
+  background:url(../images/software-developer2.jpeg);
+  color: #db0808;
+}
+.colorchange{
+  color:brown;
+}
