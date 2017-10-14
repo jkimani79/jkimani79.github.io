@@ -36,4 +36,4 @@ There is a bug in the link that i am still working on
 
 This Web Page  is under the GPL licence.
 
-Copyright (c) *14/10/2017*
+Copyright (c) *14/10/2017* **Jotham Kimani**
