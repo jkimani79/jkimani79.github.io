@@ -1,4 +1,4 @@
-{Portfolio}
+Portfolio
 
 #### A WEB PAGE
 
